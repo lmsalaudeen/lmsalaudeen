@@ -1,4 +1,15 @@
 ### Hi there 👋
+I'm Latifah. 
+
+- 🌱 I’m currently learning Java and training to be a software engineer under the Entry To Tech Bootcamp organised by Coding Black Females (and sponsored by UBS)
+- 🎓 Rounding up my Master's in Bioinformatics
+- 🎓 Google Data Analytics Certificate
+- 🎓 Introduction to Data and SQL (Code First Girls)
+- 🔭 I’m currently working on building my portfolio
+- 😍 Interests: Data Analysis, programming, software development
+- 😄 Pronouns: she/her
+- 😶‍🌫️ Hobbies: sewing, doing leg presses
+
 
 <!--
 **lmsalaudeen/lmsalaudeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
