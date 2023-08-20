@@ -8,7 +8,7 @@ I'm Latifah.
 - 🔭 I’m currently working on building my portfolio
 - 😍 Interests: Data Analysis, programming, software development
 - 😄 Pronouns: she/her
-- 😶‍🌫️ Hobbies: sewing, doing leg presses
+- 😶‍🌫️ Hobbies: sewing
 
 
 <!--
