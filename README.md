@@ -1,13 +1,12 @@
 ### Hi there 👋
 I'm Latifah. 
 
-- 🌱 I’m currently learning Java and training to be a software engineer under the Entry To Tech Bootcamp organised by Coding Black Females (and sponsored by UBS)
-- 🎓 Rounding up my Master's in Bioinformatics
+- 🎓 Master's in Bioinformatics
 - 🎓 Google Data Analytics Certificate
 - 🎓 Introduction to Data and SQL (Code First Girls)
+- 🎓 Java Bootcamp:  Entry To Tech Bootcamp organised by Coding Black Females (and sponsored by UBS)
 - 🔭 I’m currently working on building my portfolio
-- 😍 Interests: Data Analysis, programming, software development
-- 😄 Pronouns: she/her
+- 😍 Interests: Data Analysis, Software development, Bioinformatics
 - 😶‍🌫️ Hobbies: sewing
 
 
